@@ -1,0 +1,840 @@
+{
+    _id: 1,
+    fecha: {
+        dia: 4,
+        mes: 2,
+        year: 2020,
+        hora: 22,
+        minuto: 40
+    },
+    cliente: "Margarita",
+    productos: [
+        {
+            id_p: 1,
+            nombre: "Silla",
+            PUV: 40,
+            Cantidad: 40,
+            IVA: 22,
+            PUC: 22
+        }
+    ]
+}
+{
+    _id: 2,
+    fecha: {
+        dia: 17,
+        mes: 2,
+        year: 2014,
+        hora: 14,
+        minuto: 2
+    },
+    cliente: "Valeria",
+    productos: [
+        {
+            id_p: 2,
+            nombre: "Mesa",
+            PUV: 2,
+            Cantidad: 2,
+            IVA: 14,
+            PUC: 14
+        }
+    ]
+}
+{
+    _id: 3,
+    fecha: {
+        dia: 5,
+        mes: 9,
+        year: 2015,
+        hora: 5,
+        minuto: 16
+    },
+    cliente: "Ignacio",
+    productos: [
+        {
+            id_p: 3,
+            nombre: "Playera",
+            PUV: 16,
+            Cantidad: 16,
+            IVA: 5,
+            PUC: 5
+        }
+    ]
+}
+{
+    _id: 4,
+    fecha: {
+        dia: 13,
+        mes: 2,
+        year: 2015,
+        hora: 17,
+        minuto: 44
+    },
+    cliente: "Alma",
+    productos: [
+        {
+            id_p: 4,
+            nombre: "Pantalon",
+            PUV: 44,
+            Cantidad: 44,
+            IVA: 17,
+            PUC: 17
+        }
+    ]
+}
+{
+    _id: 5,
+    fecha: {
+        dia: 7,
+        mes: 12,
+        year: 2014,
+        hora: 8,
+        minuto: 15
+    },
+    cliente: "Denis",
+    productos: [
+        {
+            id_p: 5,
+            nombre: "Calcetin",
+            PUV: 15,
+            Cantidad: 15,
+            IVA: 8,
+            PUC: 8
+        }
+    ]
+}
+{
+    _id: 6,
+    fecha: {
+        dia: 7,
+        mes: 0,
+        year: 2020,
+        hora: 2,
+        minuto: 6
+    },
+    cliente: "Isabel",
+    productos: [
+        {
+            id_p: 6,
+            nombre: "Zapato",
+            PUV: 6,
+            Cantidad: 6,
+            IVA: 2,
+            PUC: 2
+        }
+    ]
+}
+{
+    _id: 7,
+    fecha: {
+        dia: 0,
+        mes: 11,
+        year: 2018,
+        hora: 6,
+        minuto: 3
+    },
+    cliente: "Josefa",
+    productos: [
+        {
+            id_p: 7,
+            nombre: "Gorra",
+            PUV: 3,
+            Cantidad: 3,
+            IVA: 6,
+            PUC: 6
+        }
+    ]
+}
+{
+    _id: 8,
+    fecha: {
+        dia: 26,
+        mes: 7,
+        year: 2011,
+        hora: 22,
+        minuto: 15
+    },
+    cliente: "Valeria",
+    productos: [
+        {
+            id_p: 8,
+            nombre: "Mochila",
+            PUV: 15,
+            Cantidad: 15,
+            IVA: 22,
+            PUC: 22
+        }
+    ]
+}
+{
+    _id: 9,
+    fecha: {
+        dia: 18,
+        mes: 12,
+        year: 2020,
+        hora: 22,
+        minuto: 57
+    },
+    cliente: "Mariano",
+    productos: [
+        {
+            id_p: 9,
+            nombre: "Lapiz",
+            PUV: 57,
+            Cantidad: 57,
+            IVA: 22,
+            PUC: 22
+        }
+    ]
+}
+{
+    _id: 10,
+    fecha: {
+        dia: 9,
+        mes: 0,
+        year: 2020,
+        hora: 3,
+        minuto: 17
+    },
+    cliente: "Candido",
+    productos: [
+        {
+            id_p: 10,
+            nombre: "Pluma",
+            PUV: 17,
+            Cantidad: 17,
+            IVA: 3,
+            PUC: 3
+        }
+    ]
+}
+{
+    _id: 11,
+    fecha: {
+        dia: 4,
+        mes: 7,
+        year: 2000,
+        hora: 4,
+        minuto: 48
+    },
+    cliente: "Ignacio",
+    productos: [
+        {
+            id_p: 11,
+            nombre: "Goma",
+            PUV: 48,
+            Cantidad: 48,
+            IVA: 4,
+            PUC: 4
+        }
+    ]
+}
+{
+    _id: 12,
+    fecha: {
+        dia: 11,
+        mes: 9,
+        year: 2011,
+        hora: 23,
+        minuto: 60
+    },
+    cliente: "Elisabeth",
+    productos: [
+        {
+            id_p: 12,
+            nombre: "Colores",
+            PUV: 60,
+            Cantidad: 60,
+            IVA: 23,
+            PUC: 23
+        }
+    ]
+}
+{
+    _id: 13,
+    fecha: {
+        dia: 25,
+        mes: 12,
+        year: 2020,
+        hora: 24,
+        minuto: 11
+    },
+    cliente: "Matilde",
+    productos: [
+        {
+            id_p: 13,
+            nombre: "Refresco",
+            PUV: 11,
+            Cantidad: 11,
+            IVA: 24,
+            PUC: 24
+        }
+    ]
+}
+{
+    _id: 14,
+    fecha: {
+        dia: 3,
+        mes: 5,
+        year: 2004,
+        hora: 24,
+        minuto: 5
+    },
+    cliente: "Emilio",
+    productos: [
+        {
+            id_p: 14,
+            nombre: "Carne",
+            PUV: 5,
+            Cantidad: 5,
+            IVA: 24,
+            PUC: 24
+        }
+    ]
+}
+{
+    _id: 15,
+    fecha: {
+        dia: 21,
+        mes: 2,
+        year: 2012,
+        hora: 24,
+        minuto: 50
+    },
+    cliente: "Elisabeth",
+    productos: [
+        {
+            id_p: 15,
+            nombre: "Audifonos",
+            PUV: 50,
+            Cantidad: 50,
+            IVA: 24,
+            PUC: 24
+        }
+    ]
+}
+{
+    _id: 16,
+    fecha: {
+        dia: 29,
+        mes: 11,
+        year: 2010,
+        hora: 8,
+        minuto: 45
+    },
+    cliente: "Rosa",
+    productos: [
+        {
+            id_p: 16,
+            nombre: "Chamarra",
+            PUV: 45,
+            Cantidad: 45,
+            IVA: 8,
+            PUC: 8
+        }
+    ]
+}
+{
+    _id: 17,
+    fecha: {
+        dia: 24,
+        mes: 4,
+        year: 2017,
+        hora: 20,
+        minuto: 54
+    },
+cliente: "Evelin",
+    productos: [
+        {
+            id_p: 17,
+            nombre: "Cubrebocas",
+            PUV: 54,
+            Cantidad: 54,
+            IVA: 20,
+            PUC: 20
+        }
+    ]
+}
+{
+    _id: 18,
+    fecha: {
+        dia: 20,
+        mes: 6,
+        year: 2013,
+        hora: 24,
+        minuto: 60
+    },
+    cliente: "Lucas",
+    productos: [
+        {
+            id_p: 18,
+            nombre: "Libro",
+            PUV: 60,
+            Cantidad: 60,
+            IVA: 24,
+            PUC: 24
+        }
+    ]
+}
+{
+    _id: 19,
+    fecha: {
+        dia: 9,
+        mes: 6,
+        year: 2020,
+        hora: 11,
+        minuto: 29
+    },
+    cliente: "Simona",
+    productos: [
+        {
+            id_p: 19,
+            nombre: "Mouse",
+            PUV: 29,
+            Cantidad: 29,
+            IVA: 11,
+            PUC: 11
+        }
+    ]
+}
+{
+    _id: 20,
+    fecha: {
+        dia: 3,
+        mes: 9,
+        year: 2001,
+        hora: 21,
+        minuto: 23
+    },
+    cliente: "Abel",
+    productos: [
+        {
+            id_p: 20,
+            nombre: "Teclado",
+            PUV: 23,
+            Cantidad: 23,
+            IVA: 21,
+            PUC: 21
+        }
+    ]
+}
+{
+    _id: 21,
+    fecha: {
+        dia: 4,
+        mes: 0,
+        year: 2021,
+        hora: 19,
+        minuto: 40
+    },
+    cliente: "Maria",
+    productos: [
+        {
+            id_p: 21,
+            nombre: "Monitor",
+            PUV: 40,
+            Cantidad: 40,
+            IVA: 19,
+            PUC: 19
+        }
+    ]
+}
+{
+    _id: 22,
+    fecha: {
+        dia: 3,
+        mes: 0,
+        year: 2021,
+        hora: 24,
+        minuto: 37
+    },
+    cliente: "Juan",
+    productos: [
+        {
+            id_p: 22,
+            nombre: "Arroz",
+            PUV: 37,
+            Cantidad: 37,
+            IVA: 24,
+            PUC: 24
+        }
+    ]
+}
+{
+    _id: 23,
+    fecha: {
+        dia: 10,
+        mes: 6,
+        year: 2004,
+        hora: 9,
+        minuto: 10
+    },
+    cliente: "Pedro",
+    productos: [
+        {
+            id_p: 23,
+            nombre: "Frijol",
+            PUV: 10,
+            Cantidad: 10,
+            IVA: 9,
+            PUC: 9
+        }
+    ]
+}
+{
+    _id: 24,
+    fecha: {
+        dia: 13,
+        mes: 5,
+        year: 2015,
+        hora: 18,
+        minuto: 19
+    },
+    cliente: "Emilio",
+    productos: [
+        {
+            id_p: 24,
+            nombre: "Avena",
+            PUV: 19,
+            Cantidad: 19,
+            IVA: 18,
+            PUC: 18
+        }
+    ]
+}
+{
+    _id: 25,
+    fecha: {
+        dia: 13,
+        mes: 9,
+        year: 2012,
+        hora: 23,
+        minuto: 19
+    },
+    cliente: "Alex",
+    productos: [
+        {
+            id_p: 25,
+            nombre: "Atun",
+            PUV: 19,
+            Cantidad: 19,
+            IVA: 23,
+            PUC: 23
+        }
+    ]
+}
+{
+    _id: 26,
+    fecha: {
+        dia: 29,
+        mes: 7,
+        year: 2001,
+        hora: 6,
+        minuto: 14
+    },
+    cliente: "Jose",
+    productos: [
+        {
+            id_p: 26,
+            nombre: "Leche",
+            PUV: 14,
+            Cantidad: 14,
+            IVA: 6,
+            PUC: 6
+        }
+    ]
+}
+{
+    _id: 27,
+    fecha: {
+        dia: 15,
+        mes: 7,
+        year: 2012,
+        hora: 4,
+        minuto: 23
+    },
+    cliente: "Fernando",
+    productos: [
+        {
+            id_p: 27,
+            nombre: "Papel",
+            PUV: 23,
+            Cantidad: 23,
+            IVA: 4,
+            PUC: 4
+        }
+    ]
+}
+{
+    _id: 28,
+    fecha: {
+        dia: 28,
+        mes: 6,
+        year: 2000,
+        hora: 23,
+        minuto: 56
+    },
+    cliente: "Gabriela",
+    productos: [
+        {
+            id_p: 28,
+            nombre: "Aceite",
+            PUV: 56,
+            Cantidad: 56,
+            IVA: 23,
+            PUC: 23
+        }
+    ]
+}
+{
+    _id: 29,
+    fecha: {
+        dia: 18,
+        mes: 1,
+        year: 2004,
+        hora: 19,
+        minuto: 43
+    },
+    cliente: "Luis",
+    productos: [
+        {
+            id_p: 29,
+            nombre: "Sopa",
+            PUV: 43,
+            Cantidad: 43,
+            IVA: 19,
+            PUC: 19
+        }
+    ]
+}
+{
+    _id: 30,
+    fecha: {
+        dia: 21,
+        mes: 7,
+        year: 2020,
+        hora: 1,
+        minuto: 38
+    },
+    cliente: "Antonio",
+    productos: [
+        {
+            id_p: 30,
+            nombre: "Jabon",
+            PUV: 38,
+            Cantidad: 38,
+            IVA: 1,
+            PUC: 1
+        }
+    ]
+}
+{
+    _id: 31,
+    fecha: {
+        dia: 3,
+        mes: 1,
+        year: 2021,
+        hora: 16,
+        minuto: 37
+    },
+    cliente: "Axel",
+    productos: [
+        {
+            id_p: 31,
+            nombre: "Cereal",
+            PUV: 37,
+            Cantidad: 37,
+            IVA: 16,
+            PUC: 16
+        }
+    ]
+}
+{
+    _id: 32,
+    fecha: {
+        dia: 2,
+        mes: 11,
+        year: 2010,
+        hora: 20,
+        minuto: 26
+    },
+    cliente: "Leonardo",
+    productos: [
+        {
+            id_p: 32,
+            nombre: "Jabon",
+            PUV: 26,
+            Cantidad: 26,
+            IVA: 20,
+            PUC: 20
+        }
+    ]
+}
+{
+    _id: 33,
+    fecha: {
+        dia: 7,
+        mes: 10,
+        year: 2015,
+        hora: 9,
+        minuto: 27
+    },
+    cliente: "Jairo",
+    productos: [
+        {
+            id_p: 33,
+            nombre: "Papel",
+            PUV: 27,
+            Cantidad: 27,
+            IVA: 9,
+            PUC: 9
+        }
+    ]
+}
+{
+    _id: 34,
+    fecha: {
+        dia: 1,
+        mes: 3,
+        year: 2016,
+        hora: 21,
+        minuto: 1
+    },
+    cliente: "Noe",
+    productos: [
+        {
+            id_p: 34,
+            nombre: "Aceite",
+            PUV: 1,
+            Cantidad: 1,
+            IVA: 21,
+            PUC: 21
+        }
+    ]
+}
+{
+    _id: 35,
+    fecha: {
+        dia: 7,
+        mes: 11,
+        year: 2020,
+        hora: 2,
+        minuto: 3
+    },
+    cliente: "Andrea",
+    productos: [
+        {
+            id_p: 35,
+            nombre: "Papel",
+            PUV: 3,
+            Cantidad: 3,
+            IVA: 2,
+            PUC: 2
+        }
+    ]
+}
+{
+    _id: 36,
+    fecha: {
+        dia: 9,
+        mes: 6,
+        year: 2009,
+        hora: 1,
+        minuto: 27
+    },
+    cliente: "Luisa",
+    productos: [
+        {
+            id_p: 36,
+            nombre: "Cafe",
+            PUV: 27,
+            Cantidad: 27,
+            IVA: 1,
+            PUC: 1
+        }
+    ]
+}
+{
+    _id: 37,
+    fecha: {
+        dia: 24,
+        mes: 5,
+        year: 2002,
+        hora: 4,
+        minuto: 0
+    },
+    cliente: "Flor",
+    productos: [
+        {
+            id_p: 37,
+            nombre: "Salsa",
+            PUV: 0,
+            Cantidad: 0,
+            IVA: 4,
+            PUC: 4
+        }
+    ]
+}
+{
+    _id: 38,
+    fecha: {
+        dia: 30,
+        mes: 2,
+        year: 2022,
+        hora: 18,
+        minuto: 35
+    },
+    cliente: "Sofia",
+    productos: [
+        {
+            id_p: 38,
+            nombre: "Agua",
+            PUV: 35,
+            Cantidad: 35,
+            IVA: 18,
+            PUC: 18
+        }
+    ]
+}
+{
+    _id: 39,
+    fecha: {
+        dia: 21,
+        mes: 1,
+        year: 2019,
+        hora: 11,
+        minuto: 27
+    },
+    cliente: "Valeria",
+    productos: [
+        {
+            id_p: 39,
+            nombre: "Papel",
+            PUV: 27,
+            Cantidad: 27,
+            IVA: 11,
+            PUC: 11
+        }
+    ]
+}
+{
+    _id: 40,
+    fecha: {
+        dia: 15,
+        mes: 6,
+        year: 2013,
+        hora: 2,
+        minuto: 18
+    },
+    cliente: "Juan",
+    productos: [
+        {
+            id_p: 40,
+            nombre: "Computadora",
+            PUV: 18,
+            Cantidad: 18,
+            IVA: 2,
+            PUC: 2
+        }
+    ]
+}

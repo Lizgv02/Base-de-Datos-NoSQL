@@ -1,0 +1,91 @@
+{_id:1,
+ nombre:{pila:"Javier",
+		ap:"Cartujano",
+		am:"Escobar"},
+ semestre: 9,
+ carrera:"ISC",
+ materias:["BD","SO"],
+ telefonos:{casa:123,
+			cel:456}
+ }
+ {_id:2,
+ nombre:{pila:"Silvia",
+		ap:"Ramirez",
+		am:"Toledo"},
+ semestre: 5,
+ carrera:"IA",
+ materias:["MATE","ADMIN"],
+ telefonos:{casa:111,
+			cel:222}
+ } 
+ {_id:3,
+ nombre:{pila:"Juan",
+		ap:"Garcia",
+		am:"Espinoza"},
+ semestre: 9,
+ carrera:"ISC",
+ materias:["BD","SO","BIG DATA"],
+ telefonos:{casa:333,
+			cel:444}
+ }
+ {_id:4,
+ nombre:{pila:"Rosa",
+		ap:"Aldrete",
+		am:"Garcia"},
+ semestre: 5,
+ carrera:"IA",
+ materias:["MATE","ADMIN","TALLER"],
+ telefonos:{casa:777,
+			cel:888}
+ }
+ {_id:5,
+ nombre:{pila:"Jessica",
+		ap:"Guerrero",
+		am:"Perez"},
+ semestre: 4,
+ carrera:"IQ",
+ materias:["BD","BIG DATA","BI"]
+ }
+ {_id:6,
+ nombre:{pila:"Carlos",
+		ap:"Silverio",
+		am:"Teodoro"},
+ semestre: 6,
+ carrera:"IA",
+ materias:["MATE"]
+ }
+ {_id:7,
+ nombre:{pila:"Aidee",
+		ap:"Verdiguel",
+		am:"Alvarez"},
+ semestre: 3,
+ carrera:"ISC",
+ materias:["SO","BIG DATA"]
+ }
+ {_id:8,
+ nombre:{pila:"Abigail",
+		ap:"Delgado",
+		am:"Hernandez"},
+ semestre: 4,
+ carrera:"IQ",
+ materias:["MATE","QUIM"]
+ }
+ {_id:9,
+ nombre:{pila:"Francisco",
+		ap:"Arroyo",
+		am:"Hernandez"},
+ semestre: 6,
+ carrera:"IQ",
+ materias:["QUIM","BD"],
+ telefonos:{cel:999}
+ }
+ {_id:10,
+ nombre:{pila:"Cristina",
+		ap:"Perez",
+		am:"Toledo"},
+ semestre: 4,
+ carrera:"ISC",
+ materias:["QUIM","BD"],
+ telefonos:{casa:1010}
+ }
+ 
